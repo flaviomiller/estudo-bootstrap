@@ -1,0 +1,26 @@
+.navbar {
+    background-color: rgb(187, 187, 187);
+}
+
+.inicio {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 29, 220);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: auto;
+    padding-right: auto;
+    text-align: center;
+}
+
+.margin {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.borda_redonda {
+    border-radius: 20px;
+}
+
+.texto {
+    text-align: justify;
+}
